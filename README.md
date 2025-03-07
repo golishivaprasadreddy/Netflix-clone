@@ -15,8 +15,8 @@ This project is a frontend implementation of the Netflix home page using HTML an
    git clone https://github.com/golishivaprasadreddy/Netflix-clone.git.
    
  2 Navigate to the project directory:
-```bash
-  cd Netflix-clone
+   ```bash
+   cd Netflix-clone
 
 Open index.html in your preferred web browser.
 
